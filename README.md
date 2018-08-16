@@ -1,4 +1,4 @@
-# CodeHwak's Movie Trailers
+# CodeHawk's Movie Trailers
 This project is a movie trailer website where user can watch their favorite movie trailers.
 
 ### System Requirements
