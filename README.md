@@ -2,7 +2,7 @@
 This project is a movie trailer website where user can watch their favorite movie trailers.
 
 ### System Requirements
-* Python must be installed on your computer.
+* Python (v3.0 or above) must be installed on your computer.
 
 ### How to run
 * Open your favorite **IDE**
